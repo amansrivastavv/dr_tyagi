@@ -1,8 +1,7 @@
 import { motion } from "motion/react";
 import { Button } from "@/components/ui/button.tsx";
 import { Calendar, Play, ChevronDown } from "lucide-react";
-
-const HERO_BG = "src/assets/hero/hero.jpeg";
+import HERO_BG from "@/assets/hero/hero.jpeg";
 
 export default function Hero() {
   return (
@@ -52,7 +51,7 @@ export default function Hero() {
             initial={{ opacity: 0, y: 20 }}
             animate={{ opacity: 1, y: 0 }}
             transition={{ duration: 0.6, delay: 0.35 }}
-            className="text-lg text-white/85 max-w-2xl mb-10 leading-relaxed"
+            className="text-lg text-white max-w-2xl mb-10 leading-relaxed"
           >
             Advanced minimally invasive care for brain tumors, stroke, and complex neurovascular
             conditions—powered by global expertise and cutting-edge technologies like{" "}
