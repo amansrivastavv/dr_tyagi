@@ -39,7 +39,7 @@ export default function DoctorProfile() {
           </h2>
         </motion.div>
 
-        <div className="grid grid-cols-1 lg:grid-cols-[40%_60%] gap-12 lg:gap-16 items-center">
+        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-[40%_60%] gap-12 lg:gap-16 items-center">
           {/* Left: Image */}
           <motion.div
             initial={{ opacity: 0, x: -40 }}

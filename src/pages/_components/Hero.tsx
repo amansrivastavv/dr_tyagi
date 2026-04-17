@@ -13,7 +13,7 @@ export default function Hero() {
           alt="Dr. Gaurav Tyagi Neurosurgical Expertise"
           className="w-full h-full object-cover"
         />
-        {/* Professional Gradient Layering */}
+        {/*  Gradient Layering */}
         <div className="absolute inset-0 bg-gradient-to-r from-[#001a40] via-[#001a40]/80 to-transparent" />
         <div className="absolute inset-0 bg-gradient-to-t from-[#001a40]/60 via-transparent to-transparent" />
       </div>
@@ -91,12 +91,12 @@ export default function Hero() {
             </Button>
           </motion.div>
 
-          {/* Trust indicators */}
+          {/* Trust indicators - Optimized for Tab/Desktop */}
           <motion.div
             initial={{ opacity: 0 }}
             animate={{ opacity: 1 }}
             transition={{ duration: 0.8, delay: 0.7 }}
-            className="hidden md:flex flex-wrap items-center gap-6 lg:gap-8 pb-32 mt-12 lg:mt-16"
+            className="hidden sm:flex flex-wrap items-center gap-6 lg:gap-8 pb-32 mt-12 lg:mt-16"
           >
             {[
               "NIMHANS Trained", 
