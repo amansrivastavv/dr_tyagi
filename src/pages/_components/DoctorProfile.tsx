@@ -22,7 +22,7 @@ const badges = [
 
 export default function DoctorProfile() {
   return (
-    <section id="about" className="py-24 bg-background">
+    <section id="about" className="py-16 md:py-24 bg-background">
       <div className="max-w-7xl mx-auto px-6 lg:px-8">
         {/* Section header */}
         <motion.div
