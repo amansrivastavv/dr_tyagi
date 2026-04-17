@@ -64,11 +64,11 @@ export default function Hero() {
             initial={{ opacity: 0, y: 15 }}
             animate={{ opacity: 1, y: 0 }}
             transition={{ duration: 0.6, delay: 0.5 }}
-            className="flex flex-wrap gap-4"
+            className="flex flex-col sm:flex-row gap-4"
           >
             <Button
               size="lg"
-              className="rounded-full px-8 py-6 text-base font-semibold bg-sky-500 hover:bg-sky-400 text-white shadow-lg shadow-sky-900/20 cursor-pointer gap-2 transition-all"
+              className="w-full sm:w-auto rounded-full px-8 py-6 text-base font-semibold bg-sky-500 hover:bg-sky-400 text-white shadow-lg shadow-sky-900/20 cursor-pointer gap-2 transition-all"
               asChild
             >
               <a href="#contact">
@@ -79,7 +79,7 @@ export default function Hero() {
             <Button
               size="lg"
               variant="ghost"
-              className="rounded-full px-8 py-6 text-base font-semibold text-white border border-white/20 hover:bg-white/5 backdrop-blur-sm cursor-pointer gap-2 transition-all"
+              className="w-full sm:w-auto rounded-full px-8 py-6 text-base font-semibold text-white border border-white/20 hover:bg-white/5 backdrop-blur-sm cursor-pointer gap-2 transition-all justify-center"
               asChild
             >
               <a href="#videos">
@@ -96,7 +96,7 @@ export default function Hero() {
             initial={{ opacity: 0 }}
             animate={{ opacity: 1 }}
             transition={{ duration: 0.8, delay: 0.7 }}
-            className="mt-12 lg:mt-16 flex flex-wrap items-center gap-6 lg:gap-8 pb-32"
+            className="hidden md:flex flex-wrap items-center gap-6 lg:gap-8 pb-32 mt-12 lg:mt-16"
           >
             {[
               "NIMHANS Trained", 

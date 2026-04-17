@@ -29,8 +29,8 @@ export default function Navbar() {
       animate={{ y: 0, opacity: 1 }}
       transition={{ duration: 0.5, ease: "easeOut" }}
       className={`fixed top-0 left-0 right-0 z-50 transition-all duration-300 ${scrolled
-          ? "bg-background/95 backdrop-blur-md shadow-[0_2px_24px_rgba(14,165,233,0.08)] border-b border-border"
-          : "bg-transparent"
+        ? "bg-background/95 backdrop-blur-md shadow-[0_2px_24px_rgba(14,165,233,0.08)] border-b border-border"
+        : "bg-transparent"
         }`}
     >
       <div className="max-w-7xl mx-auto px-6 lg:px-8 flex items-center justify-between h-18 py-4">
@@ -57,8 +57,8 @@ export default function Navbar() {
         </nav>
 
         {/* CTA */}
-        <div className="hidden lg:flex items-center gap-3">
-          <a href="tel:+911234567890" className={`flex items-center gap-1.5 text-sm font-medium transition-colors cursor-pointer ${scrolled ? "text-primary" : "text-sky-300 hover:text-white"}`}>
+        <div className="hidden lg:flex items-center gap-4">
+          <a href="tel:+911234567890" className={`flex items-center gap-1.5 text-sm font-medium transition-colors cursor-pointer ${scrolled ? "text-primary" : "text-white"}`}>
             <Phone className="w-4 h-4" />
             +91 12345 67890
           </a>

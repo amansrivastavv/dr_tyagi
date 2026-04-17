@@ -39,7 +39,7 @@ export default function DoctorProfile() {
           </h2>
         </motion.div>
 
-        <div className="grid lg:grid-cols-[40%_60%] gap-16 items-center">
+        <div className="grid grid-cols-1 lg:grid-cols-[40%_60%] gap-12 lg:gap-16 items-center">
           {/* Left: Image */}
           <motion.div
             initial={{ opacity: 0, x: -40 }}
@@ -52,7 +52,7 @@ export default function DoctorProfile() {
               <img
                 src={DOCTOR_IMG}
                 alt="Dr. Gaurav Tyagi"
-                className="w-full h-[560px] object-cover"
+                className="w-full h-[400px] md:h-[560px] object-cover"
               />
               {/* Overlay gradient */}
               <div className="absolute inset-0 bg-gradient-to-t from-black/40 via-transparent to-transparent" />
@@ -66,8 +66,8 @@ export default function DoctorProfile() {
               </div>
             </div>
 
-            {/* Floating badges */}
-            <div className="absolute -right-6 top-12 flex flex-col gap-3">
+            {/* Floating badges - Hidden on mobile */}
+            <div className="hidden md:flex absolute -right-6 top-12 flex-col gap-3">
               {badges.map((b) => (
                 <div
                   key={b.label}
