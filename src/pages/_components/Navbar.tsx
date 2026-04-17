@@ -62,7 +62,7 @@ export default function Navbar() {
             <Phone className="w-4 h-4" />
             +91 12345 67890
           </a>
-          <Button size="sm" className="rounded-full px-5 shadow-md cursor-pointer" asChild>
+          <Button className="rounded-full px-6 h-10 shadow-md cursor-pointer text-sm font-semibold" asChild>
             <a href="#contact">Book Appointment</a>
           </Button>
         </div>
@@ -97,7 +97,7 @@ export default function Navbar() {
                   {link.label}
                 </a>
               ))}
-              <Button size="sm" className="rounded-full w-full mt-2 cursor-pointer" asChild>
+              <Button className="rounded-full w-full h-11 mt-2 cursor-pointer font-semibold" asChild>
                 <a href="#contact">Book Appointment</a>
               </Button>
             </div>
