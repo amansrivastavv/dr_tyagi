@@ -126,14 +126,9 @@ export default function Footer() {
 
       {/* Bottom bar */}
       <div className="border-t border-white/8">
-        <div className="max-w-7xl mx-auto px-6 lg:px-8 py-6 flex flex-col md:flex-row items-center justify-between gap-4">
+        <div className="max-w-7xl mx-auto px-6 lg:px-8 py-6 flex flex-col items-center j">
           <p className="text-white/30 text-xs text-center md:text-left">
             &copy; {new Date().getFullYear()} Dr. Gaurav Tyagi. All rights reserved.
-          </p>
-          <p className="text-white/20 text-xs text-center max-w-2xl">
-            <strong className="text-white/30">Medical Disclaimer:</strong> The information on this
-            website is for educational purposes only and does not constitute medical advice.
-            Please consult a qualified physician for diagnosis and treatment.
           </p>
         </div>
       </div>
