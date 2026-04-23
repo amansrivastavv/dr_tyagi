@@ -1,0 +1,100 @@
+[
+  {
+    "id": "brain-tumor-awareness",
+    "image": "https://images.unsplash.com/photo-1674027215016-0a4abfdbf1cc?w=1200&q=80",
+    "category": "Brain Tumors",
+    "title": "Brain Tumor Awareness: Early Signs You Shouldn't Ignore",
+    "excerpt": "Understanding early warning signs of brain tumors can be life-saving. Dr. Tyagi explains what symptoms should prompt an immediate neurological evaluation.",
+    "readTime": "5 min read",
+    "publishedDate": "April 12, 2024",
+    "content": [
+      "The brain is the most complex organ in the human body, acting as the command center for every thought, movement, and emotion. When a tumor develops within this delicate structure, the symptoms can vary wildly depending on its location, size, and growth rate.",
+      "Early detection is often the most critical factor in successful treatment outcomes. However, because many brain tumor symptoms mimic common ailments like stress, fatigue, or tension headaches, they are frequently overlooked until they progress.",
+      "According to Dr. Gaurav Tyagi, 'We often see patients who have been self-medicating for persistent headaches for months. The key is understanding the qualitative difference in a neurological headache versus a standard one.'",
+      "Persistent, severe headaches that are worse in the morning, unexplained nausea or vomiting, and sudden changes in vision or hearing are all potential red flags. Additionally, cognitive changes such as memory loss, personality shifts, or sudden balance issues should never be ignored.",
+      "Modern neurosurgery has advanced to a point where many tumors can be treated with extreme precision, often using minimally invasive techniques that preserve vital brain functions. The first step, however, remains patient awareness and early clinical consultation."
+    ]
+  },
+  {
+    "id": "fast-protocol",
+    "image": "https://images.unsplash.com/photo-1737505599159-5ffc1dcbc08f?w=1200&q=80",
+    "category": "Stroke Prevention",
+    "title": "FAST Protocol: Recognizing and Responding to Stroke",
+    "excerpt": "Every minute counts in a stroke. Learn about the FAST protocol—Face, Arms, Speech, Time—and how rapid response improves recovery outcomes dramatically.",
+    "readTime": "4 min read",
+    "publishedDate": "March 28, 2024",
+    "content": [
+      "A stroke is a medical emergency that occurs when the blood supply to part of the brain is interrupted or reduced, preventing brain tissue from getting oxygen and nutrients. Within minutes, brain cells begin to die.",
+      "The FAST protocol is a universally recognized acronym designed to help non-medical personnel identify the most common signs of a stroke and act immediately. Time lost is brain lost.",
+      "F - Face Drooping: Does one side of the face droop or is it numb? Ask the person to smile. Is the person's smile uneven or lopsided?",
+      "A - Arm Weakness: Is one arm weak or numb? Ask the person to raise both arms. Does one arm drift downward?",
+      "S - Speech Difficulty: Is speech slurred? Is the person unable to speak or hard to understand? Ask the person to repeat a simple sentence like 'The sky is blue.'",
+      "T - Time to Call Emergency Services: If the person shows any of these symptoms, even if the symptoms go away, call emergency services and get them to a hospital immediately.",
+      "Dr. Tyagi emphasizes that mechanical thrombectomy and other advanced interventions can only be performed within a specific 'golden window' of time. By recognizing these signs, you become the first link in the chain of survival."
+    ]
+  },
+  {
+    "id": "zap-x-radiosurgery",
+    "image": "https://images.unsplash.com/photo-1726162613793-e42ea98993ef?w=1200&q=80",
+    "category": "Innovation",
+    "title": "Zap-X Radiosurgery: The Future of Non-Invasive Brain Treatment",
+    "excerpt": "Explore how Zap-X gyroscopic radiosurgery is revolutionizing the treatment of brain tumors and AVMs with unprecedented precision and minimal side effects.",
+    "readTime": "7 min read",
+    "publishedDate": "March 15, 2024",
+    "content": [
+      "For decades, brain surgery meant invasive procedures with significant recovery times. However, the advent of gyroscopic radiosurgery—specifically the Zap-X system—is changing the landscape of neurosurgery.",
+      "Zap-X is a first-of-its-kind vault-free therapeutic radiation device. Unlike traditional systems that require massive concrete bunkers, Zap-X uses a unique gyroscopic motion to deliver high-intensity radiation beams to tumors from thousands of different angles.",
+      "This precision allowed by gyroscopic movement ensures that the radiation dose is concentrated solely on the tumor, sparing the surrounding healthy brain tissue. This 'steep dose gradient' is what makes the treatment both effective and safe.",
+      "Patients undergoing Zap-X treatment typically experience no pain, require no anesthesia, and can return home the same day. It is often described as 'surgery without a scalpel.'",
+      "Dr. Tyagi, an early adopter of this technology, notes: 'Zap-X represents the pinnacle of precision medicine. We can now treat lesions that were previously considered inoperable or too risky for standard radiation.'"
+    ]
+  },
+  {
+    "id": "awake-craniotomy",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869033e561?w=1200&q=80",
+    "category": "Surgical Techniques",
+    "title": "Awake Craniotomy: Maximizing Resection, Preserving Function",
+    "excerpt": "A deep dive into how awake brain surgery allows neurosurgeons to map cortical function in real-time, offering optimal outcomes for eloquent tumors.",
+    "readTime": "6 min read",
+    "publishedDate": "February 22, 2024",
+    "content": [
+      "Operating on a tumor located near 'eloquent' areas of the brain—those responsible for speech, movement, or vision—is one of the greatest challenges in neurosurgery.",
+      "An awake craniotomy is a specialized technique where the patient is conscious for a portion of the procedure. This allows the surgical team to perform real-time functional mapping of the brain.",
+      "By asking the patient to speak, move their hand, or recognize images while the surgeon gently stimulates specific brain regions, the team can identify exactly which areas are vital for function. The goal is to remove as much of the tumor as possible while ensuring the patient's quality of life remains intact.",
+      "While the idea of being awake during brain surgery sounds daunting, the brain itself has no pain receptors. Local anesthesia is used for the scalp, and the patient is carefully guided by a specialized neuro-anesthesiologist throughout the process.",
+      "'The patient becomes an active member of the surgical team,' says Dr. Tyagi. 'Their feedback is what allows us to push the boundaries of what is safely resectable.'"
+    ]
+  },
+  {
+    "id": "minimally-invasive-spine",
+    "image": "https://images.unsplash.com/photo-1582719508461-905c673771fd?w=1200&q=80",
+    "category": "Spine Care",
+    "title": "Minimally Invasive Spine Surgery: A Paradigm Shift",
+    "excerpt": "How keyhole surgical approaches are replacing traditional open spine surgeries, leading to faster recoveries and less postoperative pain.",
+    "readTime": "5 min read",
+    "publishedDate": "February 05, 2024",
+    "content": [
+      "The traditional approach to spine surgery involved long incisions and the significant detachment of muscles from the spinal column. While effective, this often resulted in extensive postoperative pain and a long recovery period.",
+      "Minimally Invasive Spine Surgery (MISS) has revolutionized this field. By using specialized instruments and high-definition visualization tools, surgeons can now access the spine through incisions no larger than a thumbnail.",
+      "By working through small tubes (tubular retractors) and using a microscope or endoscope, we can treat herniated discs, spinal stenosis, and even complex stabilization procedures with minimal disruption to the body's natural architecture.",
+      "The benefits for the patient are significant: less blood loss during surgery, reduced risk of infection, significantly less pain, and a much faster return to daily activities and work.",
+      "At our practice, MISS is the gold standard for most degenerative spinal conditions. We believe that the best surgery is the one that achieves its clinical goal with the least trauma to the patient."
+    ]
+  },
+  {
+    "id": "trigeminal-neuralgia",
+    "image": "https://images.unsplash.com/photo-1518152006812-edab29b069ac?w=1200&q=80",
+    "category": "Neurology",
+    "title": "Understanding Trigeminal Neuralgia: Causes and Cures",
+    "excerpt": "Known as one of the most painful conditions, trigeminal neuralgia is highly treatable. We explore pharmacological and microvascular decompression options.",
+    "readTime": "4 min read",
+    "publishedDate": "January 18, 2024",
+    "content": [
+      "Often described as an electric shock to the face, trigeminal neuralgia (TN) is a chronic pain condition that affects the trigeminal nerve, which carries sensation from your face to your brain.",
+      "Even mild stimulation of your face—such as from brushing your teeth or putting on makeup—may trigger a jolt of excruciating pain. For many, the condition is debilitating, leading to significant emotional and physical distress.",
+      "TN is usually caused by a blood vessel pressing on the trigeminal nerve at the base of the brain. Over time, this pressure can wear away the protective coating (myelin) around the nerve, causing it to misfire and send erratic pain signals.",
+      "Treatment options have evolved significantly. While specialized medications are often the first line of defense, surgical interventions like Microvascular Decompression (MVD) offers a potential permanent cure by placing a small Teflon pad between the vessel and the nerve.",
+      "Dr. Tyagi notes, 'No one should have to live with the fear of a TN flare-up. With modern neurosurgical techniques, we can offer long-term relief to the vast majority of our patients.'"
+    ]
+  }
+]

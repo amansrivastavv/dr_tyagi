@@ -18,6 +18,7 @@
 
     /* Linting */
     "strict": true,
+    "resolveJsonModule": true,
 
     "paths": {
       "@/convex/*": ["./convex/*"],

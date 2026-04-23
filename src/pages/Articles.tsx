@@ -3,57 +3,7 @@ import Footer from "./_components/Footer.tsx";
 import { motion } from "motion/react";
 import { ArrowRight, Clock } from "lucide-react";
 import { Link } from "react-router-dom";
-
-const articles = [
-  {
-    image: "https://images.unsplash.com/photo-1674027215016-0a4abfdbf1cc?w=600&q=80",
-    category: "Brain Tumors",
-    title: "Brain Tumor Awareness: Early Signs You Shouldn't Ignore",
-    excerpt: "Understanding early warning signs of brain tumors can be life-saving. Dr. Tyagi explains what symptoms should prompt an immediate neurological evaluation.",
-    readTime: "5 min read",
-    id: "brain-tumor-awareness"
-  },
-  {
-    image: "https://images.unsplash.com/photo-1737505599159-5ffc1dcbc08f?w=600&q=80",
-    category: "Stroke Prevention",
-    title: "FAST Protocol: Recognizing and Responding to Stroke",
-    excerpt: "Every minute counts in a stroke. Learn about the FAST protocol—Face, Arms, Speech, Time—and how rapid response improves recovery outcomes dramatically.",
-    readTime: "4 min read",
-    id: "fast-protocol"
-  },
-  {
-    image: "https://images.unsplash.com/photo-1726162613793-e42ea98993ef?w=600&q=80",
-    category: "Innovation",
-    title: "Zap-X Radiosurgery: The Future of Non-Invasive Brain Treatment",
-    excerpt: "Explore how Zap-X gyroscopic radiosurgery is revolutionizing the treatment of brain tumors and AVMs with unprecedented precision and minimal side effects.",
-    readTime: "7 min read",
-    id: "zap-x-radiosurgery"
-  },
-  {
-    image: "https://images.unsplash.com/photo-1551076805-e1869033e561?w=600&q=80",
-    category: "Surgical Techniques",
-    title: "Awake Craniotomy: Maximizing Resection, Preserving Function",
-    excerpt: "A deep dive into how awake brain surgery allows neurosurgeons to map cortical function in real-time, offering optimal outcomes for eloquent tumors.",
-    readTime: "6 min read",
-    id: "awake-craniotomy"
-  },
-  {
-    image: "https://images.unsplash.com/photo-1582719508461-905c673771fd?w=600&q=80",
-    category: "Spine Care",
-    title: "Minimally Invasive Spine Surgery: A Paradigm Shift",
-    excerpt: "How keyhole surgical approaches are replacing traditional open spine surgeries, leading to faster recoveries and less postoperative pain.",
-    readTime: "5 min read",
-    id: "minimally-invasive-spine"
-  },
-  {
-    image: "https://images.unsplash.com/photo-1518152006812-edab29b069ac?w=600&q=80",
-    category: "Neurology",
-    title: "Understanding Trigeminal Neuralgia: Causes and Cures",
-    excerpt: "Known as one of the most painful conditions, trigeminal neuralgia is highly treatable. We explore pharmacological and microvascular decompression options.",
-    readTime: "4 min read",
-    id: "trigeminal-neuralgia"
-  }
-];
+import { articles } from "@/data/articles.ts";
 
 export default function Articles() {
   return (
