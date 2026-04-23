@@ -4,7 +4,7 @@ import { Calendar, MessageCircle, Phone } from "lucide-react";
 
 export default function FinalCTA() {
   return (
-    <section id="contact" className="section-space relative overflow-hidden">
+    <section id="contact" className="section-space pb-12 md:pb-24 relative overflow-hidden">
       {/* Background */}
       <div className="absolute inset-0 bg-gradient-to-br from-sky-600 via-blue-700 to-indigo-800" />
       <div className="absolute inset-0 bg-[radial-gradient(ellipse_at_top_left,rgba(255,255,255,0.1)_0%,transparent_60%)]" />

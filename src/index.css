@@ -132,7 +132,7 @@
 
 @layer utilities {
   .section-space {
-    @apply py-12 md:py-24;
+    @apply pt-12 md:pt-24;
   }
   
   .clinical-texture {
