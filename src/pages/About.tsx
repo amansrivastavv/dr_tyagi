@@ -7,29 +7,29 @@ import doctorImg from "@/assets/about/dr_gaurav.jpeg";
 import { Link } from "react-router-dom";
 
 const milestones = [
-  {
-    location: "Foundation",
-    title: "Senior Residency",
-    institution: "AIIMS, New Delhi",
-    description: "Specialized training in advanced trauma and neuro-oncology at India's premier medical institute.",
+   {
+    location: "Bengaluru",
+    title: "Clinical Training",
+    institution: "NIMHANS",
+    description: "Completed comprehensive MBBS and MS training at the National Institute of Mental Health and Neurosciences.",
   },
   {
     location: "Switzerland",
     title: "Vascular Fellowship",
     institution: "University Hospital Zurich",
-    description: "Focused on microvascular bypass and aneurysm clipping under world-renowned pioneers.",
+    description: "Specialized fellowship in Skull Base Surgery and microvascular techniques under global pioneers.",
   },
   {
     location: "Japan",
-    title: "Skull Base Surgery",
-    institution: "Fujita Health University",
-    description: "Mastering minimal-access approaches to complex tumors and cranial nerve preservation.",
+    title: "International Training",
+    institution: "Osaka",
+    description: "Advanced surgical training focusing on minimal-access approaches and precision neurosurgery.",
   },
   {
-    location: "Academic",
-    title: "Doctorate of Medicine",
-    institution: "M.Ch Neurosurgery",
-    description: "Highest clinical honors in neurological sciences, with a thesis on vascular remodeling.",
+    location: "New Delhi",
+    title: "Senior Consultant",
+    institution: "Indraprastha Apollo Hospital",
+    description: "Leading complex neurosurgical cases with a focus on neuro-oncology and cerebrovascular care.",
   },
 ];
 
